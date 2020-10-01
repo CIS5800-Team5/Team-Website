@@ -6,15 +6,16 @@ I have experience with an extensive number of platforms, tools and languages:
 * GitHub
 * Jenkins
 * AWS (EC2, IAM, S3, EFS)
+* VMWare
 * CentOS & RHEL (4/5/6/7)
 * NginX
-* Bash
-* Azure DevOps
 * Python
 * PHP
+* Bash
+* Azure DevOps
 * Powershell
 * Azure AD
 * Jira
 * Confluence
 
-What makes me unique is my ability to provide guidance in many areas, from Infrastructure (hardware, cloud), Infrastructure as code, Automated deployments and reverse engineering workflows in order to automate the repetive, day-to-day operational tasks.
+What makes me unique is my knowledge in many areas, from Infrastructure (both hardware, cloud), Infrastructure as code, Automated deployments and reverse engineering workflows in order to automate the repetive, day-to-day tasks.

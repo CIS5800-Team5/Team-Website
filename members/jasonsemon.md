@@ -18,4 +18,6 @@ I have experience with an extensive number of platforms, tools and languages:
 * Jira
 * Confluence
 
-What makes me unique is my knowledge in many areas, from Infrastructure (both hardware, cloud), Infrastructure as code, Automated deployments and reverse engineering workflows in order to automate the repetive, day-to-day tasks.
+What makes me unique is my knowledge in many areas: Infrastructure (both hardware, cloud), Infrastructure as code and Automated deployments. I also have a knack for reverse-engineering workflows in order to automate the repetive, day-to-day tasks.
+
+For the purposes of the SubTracker project, I will be primarily handling Infrastructure Architechture and DevOps / Deployment Automation. I will also be assisting with the development tasks.

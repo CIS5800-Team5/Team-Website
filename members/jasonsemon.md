@@ -1,4 +1,4 @@
-# Jason Semon :sunglasses:
+# Jason Semon 😎
 
 I am passionate about technology and particularly enjoy Linux and Open Source Technologies. I enjoy learning about new trends in technology to work more efficiently and see progress and success. I believe in the "Automate yourself out of a job" mantra as it helps everyone develop new skills.
 

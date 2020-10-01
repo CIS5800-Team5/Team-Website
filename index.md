@@ -20,10 +20,5 @@ To track the work we're doing, we'll be using [Azure DevOps Boards](https://dev.
 
 ## **Activities & Communications**
 * [Project Time Meeting Notes](./actcomms/meetingnotes)
-* [Jason Semon](./actcomms/jasonsemon)
-* [Elsa Cifuentes](./actcomms/elsacifuentes)
-* [Gibson Sanchez](./actcomms/gibsonsanchez)
-* [Desmond Lee](./actcomms/desmondlee)
-* [Wynne Kwok](./actcomms/wynnekwok)
 
 On this site, we'll be documenting SubTracker as we make progress. Stay tuned for more!

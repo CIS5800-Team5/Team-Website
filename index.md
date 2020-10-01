@@ -16,6 +16,7 @@ But what if there was one place to track all your subscriptions in one place and
 ***SubTracker*** is a subscription tracking management system. It allows a user to track their subscription services as a way to visualize how much they are spending monthly. If you're spending too much, we'll provide guidance on canceling services. Or what if you have so many subscription services you don't know whch one to use when you're just looking to couch surf... stop by your portal and get direct links to each subscription service in your list.
 
 ## **Our Management Tool**
+To track the work we're doing, we'll be using [Azure DevOps Boards](https://dev.azure.com/CIS5800-Team5/SubTracker/_workitems/recentlyupdated). We'll be working in Sprints to complete tasks on time. We'll also be using [Github](https://github.com/CIS5800-Team5) to share code for our [Frontend application](https://github.com/CIS5800-Team5/SubTracker-Frontend) and [Backend Application](https://github.com/CIS5800-Team5/SubTracker-Backend).
 
 ## **Activities & Communications**
 * [Project Time Meeting Notes](./actcomms/meetingnotes)
@@ -25,4 +26,4 @@ But what if there was one place to track all your subscriptions in one place and
 * [Desmond Lee](./actcomms/desmondlee)
 * [Wynne Kwok](./actcomms/wynnekwok)
 
-On this site, we'll be documenting our team's project. Stay tuned for more!
+On this site, we'll be documenting SubTracker as we make progress. Stay tuned for more!

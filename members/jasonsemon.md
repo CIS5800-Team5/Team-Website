@@ -1,10 +1,23 @@
-I am passionate about technology. I enjoy nothing more than learning about new trends in technology to work more efficiently and see progress and success.
+# Jason Semon 😎
 
-Some of the tools/softwares/languages I use:
+I am passionate about technology and particularly enjoy Linux and Open Source Technologies. I enjoy learning about new trends in technology to work more efficiently and see progress and success. I believe in the "Automate yourself out of a job" mantra as it helps everyone develop new skills.
+
+I have experience with an extensive number of platforms, tools and languages:
 * GitHub
 * Jenkins
-* CentOS
-* Azure DevOps
+* AWS (EC2, IAM, S3, EFS)
+* VMWare
+* CentOS & RHEL (4/5/6/7)
+* NginX
 * Python
 * PHP
+* Bash
+* Azure DevOps
 * Powershell
+* Azure AD
+* Jira
+* Confluence
+
+What makes me unique is my knowledge in many areas: Infrastructure (both hardware, cloud), Infrastructure as code and Automated deployments. I also have a knack for reverse-engineering workflows in order to automate the repetive, day-to-day tasks.
+
+For the purposes of the SubTracker project, I will be primarily handling Infrastructure Architechture and DevOps / Deployment Automation. I will also be assisting with the development tasks.

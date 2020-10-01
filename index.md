@@ -1,18 +1,18 @@
-# SubTracker
-## About Us
+# **SubTracker**
+## **About Us**
 
-### Team Members:
+### _Team Members:_
 * [Jason Semon](./members/jasonsemon)
 * [Elsa Cifuentes](./members/elsacifuentes)
 * [Gibson Sanchez](./members/gibsonsanchez)
 * [Desmond Lee](./members/desmondlee)
 * [Wynne Kwok](./members/wynnekwok)
 
-## Our Project
+## **Our Project**
 
-## Our Management Tool
+## **Our Management Tool**
 
-## Activities & Communications
+## **Activities & Communications**
 * [Project Time Meeting Notes](./actcomms/meetingnotes)
 * [Jason Semon](./actcomms/jasonsemon)
 * [Elsa Cifuentes](./actcomms/elsacifuentes)

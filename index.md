@@ -7,7 +7,7 @@
 * [Gibson Sanchez](./members/gibsonsanchez)
 * [Desmond Lee](./members/desmondlee)
 * [Wynne Kwok](./members/wynnekwok)
-</details>
+
 
 ## **Our Project**
 

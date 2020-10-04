@@ -8,7 +8,6 @@
 * [Desmond Lee](./members/desmondlee)
 * [Wynne Kwok](./members/wynnekwok)
 
-
 ## **Our Project**
 
 These days, many individuals have multiple subscriptions that they pay a monthly fee for. Companies like Spotify, Pandora, YouTube and Amazon Prime make it very easy to sign up for their services. You sign up, insert your credit card information and the service will automatically charge each month (or other specified interval). But things come up. Another video streaming service comes along with a show you can't resist watching or the series you signed up to watch has come to an end or you've lost interest. Not a problem, because you're still being billed, right?

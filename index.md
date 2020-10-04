@@ -24,7 +24,7 @@ To track the work we're doing, we'll be using [Azure DevOps Boards](https://dev.
 
 ## **Activities & Communications**
 
-* [Project Time Meeting Notes](./actcomms/meetingnotes)
+* [Project Time Meeting Notes](https://drive.google.com/drive/folders/1Q0HjYC9aWQ2j41-u7oukWsvE5Rr-tryu?usp=sharing)
 
 On this site, we'll be documenting SubTracker as we make progress. Stay tuned for more!
 

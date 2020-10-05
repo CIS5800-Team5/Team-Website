@@ -18,6 +18,7 @@ But what if there was one place to track all your subscriptions in one place and
 
 * [Project Idea Presentation](https://docs.google.com/presentation/d/1zuttFhTKybuMOAJ8m2fiUIxRJCVpJlKxuPkuoGO-4e8/edit?usp=sharing)
 * [Files related to our project can be found here](./project/projectfiles).
+
 ## **Our Management Tools**
 
 To track the work we're doing, we'll be using [Azure DevOps Boards](https://dev.azure.com/CIS5800-Team5/SubTracker/_workitems/recentlyupdated). We'll be working in Sprints to complete tasks on time. We'll also be using [GitHub](https://github.com/CIS5800-Team5) to share code for our [Frontend Application](https://github.com/CIS5800-Team5/SubTracker-Frontend) and [Backend Application](https://github.com/CIS5800-Team5/SubTracker-Backend).

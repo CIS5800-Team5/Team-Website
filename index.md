@@ -17,6 +17,7 @@ But what if there was one place to track all your subscriptions in one place and
 ***SubTracker*** is a subscription tracking management system. It allows a user to track their subscription services as a way to visualize how much they are spending monthly. If you're spending too much, we'll provide guidance on canceling services. Or what if you have so many subscription services you don't know whch one to use when you're just looking to couch surf... stop by your portal and get direct links to each subscription service in your list.
 
 * [Project Idea Presentation](https://docs.google.com/presentation/d/1zuttFhTKybuMOAJ8m2fiUIxRJCVpJlKxuPkuoGO-4e8/edit?usp=sharing)
+* [Midterm Presentation](https://docs.google.com/presentation/d/1PPicw6YSQKhz9Ayo0bGuptlv8iOrdTyKBxVXzIHvohg/edit?usp=sharing)
 * [Files related to our project can be found here.](./project/projectfiles)
 
 ## **Our Management Tools**

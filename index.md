@@ -18,7 +18,7 @@ But what if there was one place to track all your subscriptions in one place and
 
 * [Project Idea Presentation](https://docs.google.com/presentation/d/1zuttFhTKybuMOAJ8m2fiUIxRJCVpJlKxuPkuoGO-4e8/edit?usp=sharing)
 * [Midterm Presentation](https://docs.google.com/presentation/d/1PPicw6YSQKhz9Ayo0bGuptlv8iOrdTyKBxVXzIHvohg/edit?usp=sharing)
-* [Files related to our project can be found here.](./project/projectfiles)
+* [Files related to our project can be found here.](https://drive.google.com/drive/folders/1Al75nHOGNhOdZhwUUirZtc-j3VMrwubu?usp=sharing)
 
 ## **Our Management Tools**
 
